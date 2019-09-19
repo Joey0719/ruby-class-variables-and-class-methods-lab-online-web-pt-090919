@@ -1,4 +1,4 @@
-require "../lib/song.rb"
+
 
 class Song 
 
