@@ -1,4 +1,4 @@
-
+require_relative "../lib/song.rb"
 
 class Song 
 
